@@ -9,7 +9,6 @@ Develop a program in C or C++ that performs the following operations:
 result: 1 2 3 4 5
 
 ## Program Requirements
-- At the beginning of the program, include a comment containing information about the author (student ID number, first name, last name, group number).
 - The program must consist of multiple functions. Pass the created arrays to functions via parameters; the use of global variables is prohibited.
 - Ensure input error handling (text or real numbers cannot be entered as array size or element, the array consists of integers). If an array element is entered incorrectly, prompt the user to re-enter only that element (already entered values are not lost, input continues).
 
